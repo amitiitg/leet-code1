@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TestIdeas
 {
-    class MaxSubarray
+    class MaxSubarrayClass
     {
         public int MaxSubArray(int[] nums)
         {

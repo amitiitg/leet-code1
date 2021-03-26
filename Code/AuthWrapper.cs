@@ -36,8 +36,6 @@ namespace TestIdeas
             return result.AccessToken;
         }
 
-        public async Task<string>
-
         private static IReadOnlyList<X509Certificate2> GetPassThroughCertificates()
         {
             var certificateFiles = Directory.GetFiles(@"PassThroughCertificates", "*.pfx", SearchOption.TopDirectoryOnly);

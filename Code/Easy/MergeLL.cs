@@ -15,6 +15,18 @@ namespace TestIdeas
      *     }
      * }
      */
+
+    public class ListNode
+    {
+        public int val;
+        public ListNode next;
+        public ListNode(int val = 0, ListNode next = null)
+        {
+            this.val = val;
+            this.next = next;
+        }
+    }
+
     public class MergeLL
     {
         public ListNode MergeTwoLists(ListNode l1, ListNode l2)
@@ -26,7 +38,7 @@ namespace TestIdeas
                 return (l1 == null) ? l2 : l1;
             }
 
-            if (currentL1.vaue < currentL2.value)
+            if (currentL1.val < currentL2.val)
             {
                 mergeCurrent = currentL1;
                 currentL1 = currentL1.next;

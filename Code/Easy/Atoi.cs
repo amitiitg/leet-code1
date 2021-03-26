@@ -8,7 +8,7 @@ namespace TestIdeas
     {
         public int MyAtoi(string s)
         {
-
+            return 0;
         }
     }
 }

@@ -6,7 +6,7 @@ namespace TestIdeas
 {
     class ThreeSumClosest
     {
-        public int ThreeSumClosest(int[] nums, int target)
+        public int ThreeSumClosest1(int[] nums, int target)
         {
             Array.Sort(nums);
 

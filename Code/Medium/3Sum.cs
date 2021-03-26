@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TestIdeas
 {
-    public class Solution
+    public class ThreeSumClass
     {
         public IList<IList<int>> ThreeSum(int[] nums)
         {

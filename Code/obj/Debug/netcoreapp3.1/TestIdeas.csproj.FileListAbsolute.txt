@@ -1,0 +1,15 @@
+C:\Users\amamlesh\source\repos\Ideas\Code\obj\Debug\netcoreapp3.1\TestIdeas.csprojAssemblyReference.cache
+C:\Users\amamlesh\source\repos\Ideas\Code\obj\Debug\netcoreapp3.1\TestIdeas.AssemblyInfoInputs.cache
+C:\Users\amamlesh\source\repos\Ideas\Code\obj\Debug\netcoreapp3.1\TestIdeas.AssemblyInfo.cs
+C:\Users\amamlesh\source\repos\Ideas\Code\obj\Debug\netcoreapp3.1\TestIdeas.csproj.CoreCompileInputs.cache
+C:\Users\amamlesh\source\repos\Ideas\Code\bin\Debug\netcoreapp3.1\TestIdeas.exe
+C:\Users\amamlesh\source\repos\Ideas\Code\bin\Debug\netcoreapp3.1\TestIdeas.deps.json
+C:\Users\amamlesh\source\repos\Ideas\Code\bin\Debug\netcoreapp3.1\TestIdeas.runtimeconfig.json
+C:\Users\amamlesh\source\repos\Ideas\Code\bin\Debug\netcoreapp3.1\TestIdeas.runtimeconfig.dev.json
+C:\Users\amamlesh\source\repos\Ideas\Code\bin\Debug\netcoreapp3.1\TestIdeas.dll
+C:\Users\amamlesh\source\repos\Ideas\Code\bin\Debug\netcoreapp3.1\TestIdeas.pdb
+C:\Users\amamlesh\source\repos\Ideas\Code\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\amamlesh\source\repos\Ideas\Code\obj\Debug\netcoreapp3.1\TestIdeas.csproj.CopyComplete
+C:\Users\amamlesh\source\repos\Ideas\Code\obj\Debug\netcoreapp3.1\TestIdeas.dll
+C:\Users\amamlesh\source\repos\Ideas\Code\obj\Debug\netcoreapp3.1\TestIdeas.pdb
+C:\Users\amamlesh\source\repos\Ideas\Code\obj\Debug\netcoreapp3.1\TestIdeas.genruntimeconfig.cache

@@ -24,13 +24,10 @@ namespace TestIdeas
     }
 }
 
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace TestIdeas
 {
-    public class RemoveDuplicateFromSortedArray
+    public class RemoveDuplicateFromSortedArray1
     {
         public int RemoveDuplicates(int[] nums)
         {
